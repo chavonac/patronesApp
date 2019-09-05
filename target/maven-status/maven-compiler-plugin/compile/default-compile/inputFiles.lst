@@ -1,0 +1,12 @@
+/home/chavon/workspace-project/patronesApp/src/main/java/mx/com/msc/builder/Director.java
+/home/chavon/workspace-project/patronesApp/src/main/java/mx/com/msc/builder/Coche.java
+/home/chavon/workspace-project/patronesApp/src/main/java/mx/com/msc/mains/BuilderMain.java
+/home/chavon/workspace-project/patronesApp/src/main/java/mx/com/msc/mains/PrototypeMain.java
+/home/chavon/workspace-project/patronesApp/src/main/java/mx/com/msc/builder/ConstructorCocheBase.java
+/home/chavon/workspace-project/patronesApp/src/main/java/mx/com/msc/builder/BuilderCoche.java
+/home/chavon/workspace-project/patronesApp/src/main/java/mx/com/msc/prototype/TvPrototype.java
+/home/chavon/workspace-project/patronesApp/src/main/java/mx/com/msc/builder/ConstructorCocheFull.java
+/home/chavon/workspace-project/patronesApp/src/main/java/mx/com/msc/prototype/TV.java
+/home/chavon/workspace-project/patronesApp/src/main/java/mx/com/msc/prototype/Plasma.java
+/home/chavon/workspace-project/patronesApp/src/main/java/mx/com/msc/prototype/LCD.java
+/home/chavon/workspace-project/patronesApp/src/main/java/mx/com/msc/builder/ConstructorCocheMedio.java

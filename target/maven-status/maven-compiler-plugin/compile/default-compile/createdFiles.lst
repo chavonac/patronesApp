@@ -1,0 +1,12 @@
+mx/com/msc/builder/ConstructorCocheBase.class
+mx/com/msc/prototype/Plasma.class
+mx/com/msc/builder/ConstructorCocheMedio.class
+mx/com/msc/builder/ConstructorCocheFull.class
+mx/com/msc/mains/PrototypeMain.class
+mx/com/msc/prototype/LCD.class
+mx/com/msc/mains/BuilderMain.class
+mx/com/msc/prototype/TvPrototype.class
+mx/com/msc/builder/Coche.class
+mx/com/msc/builder/Director.class
+mx/com/msc/prototype/TV.class
+mx/com/msc/builder/BuilderCoche.class
