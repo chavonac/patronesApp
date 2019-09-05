@@ -10,6 +10,7 @@ public class PrototypeMain {
         TV tv = (TV) tvp.prototipo("Plasma");
         System.out.println(tv.getPrecio());
         System.out.println(tv.getColor());
+        System.out.println(tv.getMarcas());
     }
 
 }
